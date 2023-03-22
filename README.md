@@ -480,7 +480,8 @@ Implement a function called `wrapAdjective`:
 - It should take as parameter a `String` that will be used to create visual flair
 - You may call the parameter whatever you like, but its default value should
   be `"*"`
-- Call example: `const encouragingPromptFunction = wrapAdjective("!!!")`
+- Cal.
+l example: `const encouragingPromptFunction = wrapAdjective("!!!")`
 
 Thus a total call should be:
 
@@ -488,8 +489,7 @@ Thus a total call should be:
 wrapAdjective("%")("a dedicated programmer"); //=> "You are %a dedicated programmer%!"
 ```
 
-Run `learn` to verify you've gotten this set of tests passing.
-
+Run `learn` to verify you've gotten this set of tests passing
 ## Conclusion
 
 In this lesson, we've covered the basics of function declaration, invocation,
